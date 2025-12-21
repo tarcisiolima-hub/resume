@@ -20,6 +20,8 @@ h2 {
 }
 
 .foto {
+  height: 100px;
+  widht: 100px;
   border-radius: 50%;
   position: absolute
   top: 100px;
