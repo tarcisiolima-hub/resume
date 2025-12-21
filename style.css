@@ -30,9 +30,10 @@ h2 {
 }
 
 .whatsapp {
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   border-radius: 50%;
+  background-color: lightgray;
   position: fixed;
   bottom: 60px;
   right: 20px;
