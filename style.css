@@ -12,7 +12,8 @@ header {
   width: 100px;
 }
 
-.menu p {
+.menu > p {
+  display: inline-block;
   width: 300px;
 }
 
