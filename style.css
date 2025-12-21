@@ -1,14 +1,3 @@
-@media (max-width: 600px) {
-  .foto {
-  height: 100px;
-  width: 100px;
-  }
-
-  * {
-    background: red;
-  }
-}
-
 * {
   font-family: Helvetica, sans-serif
 }
@@ -74,4 +63,15 @@ footer {
 
 nav a{
   color: white;
+}
+
+@media (max-width: 600px) {
+  .foto {
+  height: 100px;
+  width: 100px;
+  }
+
+  * {
+    background: red;
+  }
 }
