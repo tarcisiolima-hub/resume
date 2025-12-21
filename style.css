@@ -15,7 +15,8 @@ h2 {
 }
 
 #top {
-  background-color: lightgray;
+  background-color: white;
+  border: DodgerBlue 10px solid;
   padding: 10px;
 }
 
