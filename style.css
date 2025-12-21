@@ -16,7 +16,6 @@ h2 {
 
 #top {
   background-color: white;
-  border: DodgerBlue 10px solid;
   padding: 10px;
 }
 
@@ -33,7 +32,6 @@ h2 {
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  background-color: lightgray;
   position: fixed;
   bottom: 60px;
   right: 20px;
