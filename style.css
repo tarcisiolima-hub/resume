@@ -24,7 +24,7 @@ h2 {
   width: 200px;
   border-radius: 50%;
   position: absolute;
-  top: 60px;
+  top: 30px;
   right: 20px;
 }
 
@@ -33,7 +33,7 @@ h2 {
   width: 50px;
   border-radius: 50%;
   position: absolute;
-  botton: 60px;
+  bottom: 60px;
   right: 20px;
   z-index: 1;
 }
