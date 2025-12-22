@@ -9,6 +9,7 @@ header {
   gap: 30px;
   justify-content: space-around;
   flex-direction: center;
+  align-itens: center;
   height: 40px;
 }
 
