@@ -8,6 +8,8 @@ header {
   display: flex;
   gap: 30px;
   justify-content: space-around;
+  flex-direction: center;
+  height: 40px;
 }
 
 .menu {
